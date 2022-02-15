@@ -1,3 +1,4 @@
+clear, clc
 %Matriz cuadrada de orden 3x3
 A = [ 0 1 2;
       3 4 5;
