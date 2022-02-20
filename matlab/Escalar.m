@@ -10,7 +10,6 @@ A = [2 0 1;
  
 fprintf('Captura del escalar \n');
 
-myescalar =input(" escalar = ");
 
  % impresion de matriz usando 2 ciclos anidados
  
@@ -22,6 +21,7 @@ for ren=1:renglones;
     end
     fprintf('\n');
 end
+
 
 
 fprintf('Impresion de escalar X matriz de orden 3x3 \n');
